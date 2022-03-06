@@ -1,0 +1,3 @@
+This application helps recruiters find women and gender-diverse engineers via github profiles.  
+MVP: Using the github api and embedded search strings, the app allows recruiters to find diverse engineers based on programming language, technology, and level of experience.  
+With additional time, I would like to pull email addresses to make the tool more actionable, as well as identify other apis that would be valuable to integrate.   
